@@ -1,30 +1,12 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: home
 ---
 
-<h1> Mon Chaton </h1>
-<p> Lorem heg egf kegfjghf dfhksgjdfsjhg fg fjhgjrhfjhgjdfgjghvjhgueutriueyptirgzndjbgcwxadzdzyhgvvjtryjhb vkg jrfgchcfejr  hg bvgh hf kfh jnbhdgcb ff gfhbf,hggbhjg fdvhgsfd
+<h1> Mon site </h1>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 </p>
 
 
 
 
-
-=======
-
----
-title: home
----
-
-<head> <title> {{ site.title }} </title> </head>
-
-<body>
-	<h1> Bonjour </h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-	</p>
-</body>
-
-<footer> @ 2014 </footer>
->>>>>>> bbbed31ce02abd50597e64e342753568e6212d40

@@ -1,13 +1,8 @@
-<!DOCTYPE html>
 
-<html>
+{% include header.html %}	
+	{{ content }}
 
-	<head>
-		<title>{{ site.title }}</title>
-	</head>
-	<body>
-	
-{{ content }}
 
-</body>
-</html>
+{% include footer.html %}
+
+
